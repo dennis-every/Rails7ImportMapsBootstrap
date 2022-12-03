@@ -11,3 +11,5 @@ This is project to test active storage uploads through standards forms and also 
 - https://guides.rubyonrails.org/active_storage_overview.html
 
 - https://github.com/rails/importmap-rails
+
+- https://eagerworks.com/blog/import-maps-in-rails-7

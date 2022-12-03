@@ -41,3 +41,5 @@ pin "mime-match", to: "https://cdn.jsdelivr.net/npm/mime-match@1.0.2/index.js"
 pin "namespace-emitter", to: "https://cdn.jsdelivr.net/npm/namespace-emitter@2.0.1/index.js"
 pin "nanoid/non-secure", to: "https://cdn.jsdelivr.net/npm/nanoid@4.0.0/non-secure/index.js"
 pin "preact", to: "https://cdn.jsdelivr.net/npm/preact@10.11.3/dist/preact.module.js"
+
+pin "bootstrap", to: "bootstrap.js"
