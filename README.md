@@ -9,3 +9,5 @@ This is project to test active storage uploads through standards forms and also 
 - Database sqlite
 
 - https://guides.rubyonrails.org/active_storage_overview.html
+
+- https://github.com/rails/importmap-rails
