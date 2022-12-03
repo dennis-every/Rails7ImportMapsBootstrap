@@ -1,0 +1,13 @@
+<div id="<%= dom_id property %>">
+  
+  <p>
+    <strong>Title:</strong>
+    <%= property.title %>
+  </p>
+
+  <p>
+    <strong>Image:</strong>
+    <%= image_tag(property.image, class:'image') if property.image.attached? %>
+  </p>
+
+</div>
