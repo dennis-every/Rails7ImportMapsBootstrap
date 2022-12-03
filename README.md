@@ -13,3 +13,5 @@ This is project to test active storage uploads through standards forms and also 
 - https://github.com/rails/importmap-rails
 
 - https://eagerworks.com/blog/import-maps-in-rails-7
+
+- https://blog.appsignal.com/2022/03/02/import-maps-under-the-hood-in-rails-7.html
